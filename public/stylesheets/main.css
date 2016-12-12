@@ -43,6 +43,18 @@ main {
   font-size: 18px;
 }
 
+.content-paper{
+        padding: 35px;
+        margin: auto;
+        margin-bottom: 20px;
+        text-align: center;
+        background-color: white;
+        border-radius: 3px;
+        width: 100%;
+        min-height: 400px;
+
+}
+
 .general-container {
   float: left;
   justify-content: space-around;
@@ -55,4 +67,8 @@ main {
 
 h1 {
   text-align: center;
+}
+
+.small-image {
+         padding: 35px;
 }
